@@ -9,6 +9,16 @@
 
 
 
+![Coder GIF](URL_TO_YOUR_GIF_IMAGE)
+
+### About Me
+
+#### I'm osama haroon from egypt. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks. I also enjoy Implementing of designs. For This Moment I'm a junior web developer and learning increasingly.
+
+
+
+
+
 <h3 align="center">A passionate Web developer. Love to build beautiful websites with latest tech available😄
 </h3>
 
